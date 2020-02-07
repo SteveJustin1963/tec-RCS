@@ -1,2 +1,2 @@
 # tec-RCS
-TEC-1 controlled Reaction Control System
+TEC-1   Reaction Control System
